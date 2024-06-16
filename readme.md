@@ -49,17 +49,20 @@
 
 ## Overview
 
-This is a project coding of HTMl and CSS in different kinds of headers and footers in addition of animations. This is to have hands-on experience in coding and having an actual output tasked to us by our Instructor.
+This is a project coding of HTMl and CSS of different kinds of headers and footers in addition of animations. This is to have hands-on experience in coding and having an actual output tasked to us by our Instructor. In addition, a lot of my designs are more on animation of moving objects and button hover effect.
 
 ### Key Components
 - Header Animation
   - Hover Effect
   - Active Effect
-  - Multi Layer Domino Effect
-  - Not Effect
+  - Moving Animation
+  - Circulating Effect
+  - Hover Effect on Background
 
 - Footer Aniamtion
-  - 
+  - Moving Animation
+  - Icon Hover
+
 
 
 ### Technology
@@ -104,4 +107,9 @@ WD-ProjectName
 
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Responsive Footer | Got the design for the footer | https://codepen.io/matheusalmeida/pen/aeLMMr |
+| Header Design | BUtton inspiration | https://codepen.io/cbolson/pen/OJGKdNJ |
+| header mag  | Got the design for the header | https://codepen.io/samiralley/pen/nxeKeq |
+| Landing Page | the idea and design animation for the landing page | https://codepen.io/nahrowi/pen/GjwYEz |
+| hamburger menu | Header design | https://codepen.io/jasperlachance/pen/yOJdRr |
+| Sibling select | Idea for the header background | https://codepen.io/giana/pen/dWJzMK |
